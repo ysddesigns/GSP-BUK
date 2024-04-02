@@ -1,0 +1,82 @@
+[
+  {
+    "question_number": 1,
+    "question": "Who is often credited with the invention of the first practical telephone?",
+    "options": [
+      "Alexander Graham Bell",
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Samuel Morse"
+    ],
+    "answer": "Alexander Graham Bell"
+  },
+  {
+    "question_number": 2,
+    "question": "What does CPU stand for?",
+    "options": [
+      "Central Processing Unit",
+      "Computer Personal Unit",
+      "Central Process Unit",
+      "Central Personal Unit"
+    ],
+    "answer": "Central Processing Unit"
+  },
+  {
+    "question_number": 3,
+    "question": "What is the chemical symbol for water?",
+    "options": ["H2O", "CO2", "NaCl", "O2"],
+    "answer": "H2O"
+  },
+  {
+    "question_number": 4,
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Mars", "Venus", "Jupiter", "Saturn"],
+    "answer": "Mars"
+  },
+  {
+    "question_number": 5,
+    "question": "Who is the founder of SpaceX?",
+    "options": ["Elon Musk", "Jeff Bezos", "Richard Branson", "Larry Page"],
+    "answer": "Elon Musk"
+  },
+  {
+    "question_number": 6,
+    "question": "What does HTML stand for?",
+    "options": [
+      "Hypertext Markup Language",
+      "Hyperlink and Text Markup Language",
+      "Home Tool Markup Language",
+      "Hyperlink and Text Management Language"
+    ],
+    "answer": "Hypertext Markup Language"
+  },
+  {
+    "question_number": 7,
+    "question": "Who is often referred to as the 'Father of Computing'?",
+    "options": [
+      "Charles Babbage",
+      "Alan Turing",
+      "Bill Gates",
+      "Tim Berners-Lee"
+    ],
+    "answer": "Charles Babbage"
+  },
+  {
+    "question_number": 8,
+    "question": "What is the fastest bird in the world?",
+    "options": ["Peregrine Falcon", "Golden Eagle", "Ostrich", "Hummingbird"],
+    "answer": "Peregrine Falcon"
+  },
+  {
+    "question_number": 9,
+    "question": "What is the largest organ in the human body?",
+    "options": ["Skin", "Liver", "Heart", "Brain"],
+    "answer": "Skin"
+  },
+  {
+    "question_number": 10,
+    "question": "What is the chemical symbol for gold?",
+    "options": ["Au", "Ag", "Fe", "Cu"],
+    "answer": "Au"
+  }
+]

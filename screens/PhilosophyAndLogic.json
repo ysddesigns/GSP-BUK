@@ -1,0 +1,192 @@
+[
+  {
+    "question_number": 51,
+    "question": "Who is considered the father of Western philosophy?",
+    "options": ["Socrates", "Plato", "Aristotle", "Pythagoras"],
+    "answer": "Socrates"
+  },
+  {
+    "question_number": 52,
+    "question": "What is the famous paradox formulated by Greek philosopher Zeno?",
+    "options": [
+      "Achilles and the Tortoise",
+      "The Liar Paradox",
+      "The Ship of Theseus",
+      "The Sorites Paradox"
+    ],
+    "answer": "Achilles and the Tortoise"
+  },
+  {
+    "question_number": 53,
+    "question": "Who wrote the famous work 'Meditations'?",
+    "options": ["Marcus Aurelius", "Epictetus", "Seneca", "Plato"],
+    "answer": "Marcus Aurelius"
+  },
+  {
+    "question_number": 54,
+    "question": "What is the famous question posed by René Descartes?",
+    "options": [
+      "Cogito, ergo sum (I think, therefore I am)",
+      "Veni, vidi, vici (I came, I saw, I conquered)",
+      "Carpe diem (Seize the day)",
+      "Eureka (I have found it)"
+    ],
+    "answer": "Cogito, ergo sum (I think, therefore I am)"
+  },
+  {
+    "question_number": 55,
+    "question": "What is the philosophical principle of Occam's razor?",
+    "options": [
+      "Entities should not be multiplied beyond necessity",
+      "Everything happens for a reason",
+      "Do unto others as you would have them do unto you",
+      "The unexamined life is not worth living"
+    ],
+    "answer": "Entities should not be multiplied beyond necessity"
+  },
+  {
+    "question_number": 56,
+    "question": "Who wrote the seminal work 'Critique of Pure Reason'?",
+    "options": [
+      "Immanuel Kant",
+      "Friedrich Nietzsche",
+      "John Locke",
+      "David Hume"
+    ],
+    "answer": "Immanuel Kant"
+  },
+  {
+    "question_number": 57,
+    "question": "What is the term for the logical fallacy where one assumes that because two events occur together, one must cause the other?",
+    "options": [
+      "Post hoc ergo propter hoc",
+      "Ad hominem",
+      "Begging the question",
+      "Red herring"
+    ],
+    "answer": "Post hoc ergo propter hoc"
+  },
+  {
+    "question_number": 58,
+    "question": "Who proposed the 'categorical imperative' as a principle of ethics?",
+    "options": [
+      "Immanuel Kant",
+      "John Stuart Mill",
+      "Jeremy Bentham",
+      "Jean-Jacques Rousseau"
+    ],
+    "answer": "Immanuel Kant"
+  },
+  {
+    "question_number": 59,
+    "question": "What is the term for a deductive argument where the conclusion necessarily follows from the premises?",
+    "options": ["Syllogism", "Induction", "Abduction", "Reduction"],
+    "answer": "Syllogism"
+  },
+  {
+    "question_number": 60,
+    "question": "Who is considered the founder of existentialist philosophy?",
+    "options": [
+      "Søren Kierkegaard",
+      "Friedrich Nietzsche",
+      "Jean-Paul Sartre",
+      "Albert Camus"
+    ],
+    "answer": "Søren Kierkegaard"
+  },
+  {
+    "question_number": 61,
+    "question": "Who is considered the father of Western philosophy?",
+    "options": ["Socrates", "Plato", "Aristotle", "Pythagoras"],
+    "answer": "Socrates"
+  },
+  {
+    "question_number": 62,
+    "question": "What is the famous paradox formulated by Greek philosopher Zeno?",
+    "options": [
+      "Achilles and the Tortoise",
+      "The Liar Paradox",
+      "The Ship of Theseus",
+      "The Sorites Paradox"
+    ],
+    "answer": "Achilles and the Tortoise"
+  },
+  {
+    "question_number": 63,
+    "question": "Who wrote the famous work 'Meditations'?",
+    "options": ["Marcus Aurelius", "Epictetus", "Seneca", "Plato"],
+    "answer": "Marcus Aurelius"
+  },
+  {
+    "question_number": 64,
+    "question": "What is the famous question posed by René Descartes?",
+    "options": [
+      "Cogito, ergo sum (I think, therefore I am)",
+      "Veni, vidi, vici (I came, I saw, I conquered)",
+      "Carpe diem (Seize the day)",
+      "Eureka (I have found it)"
+    ],
+    "answer": "Cogito, ergo sum (I think, therefore I am)"
+  },
+  {
+    "question_number": 65,
+    "question": "What is the philosophical principle of Occam's razor?",
+    "options": [
+      "Entities should not be multiplied beyond necessity",
+      "Everything happens for a reason",
+      "Do unto others as you would have them do unto you",
+      "The unexamined life is not worth living"
+    ],
+    "answer": "Entities should not be multiplied beyond necessity"
+  },
+  {
+    "question_number": 66,
+    "question": "Who wrote the seminal work 'Critique of Pure Reason'?",
+    "options": [
+      "Immanuel Kant",
+      "Friedrich Nietzsche",
+      "John Locke",
+      "David Hume"
+    ],
+    "answer": "Immanuel Kant"
+  },
+  {
+    "question_number": 67,
+    "question": "What is the term for the logical fallacy where one assumes that because two events occur together, one must cause the other?",
+    "options": [
+      "Post hoc ergo propter hoc",
+      "Ad hominem",
+      "Begging the question",
+      "Red herring"
+    ],
+    "answer": "Post hoc ergo propter hoc"
+  },
+  {
+    "question_number": 68,
+    "question": "Who proposed the 'categorical imperative' as a principle of ethics?",
+    "options": [
+      "Immanuel Kant",
+      "John Stuart Mill",
+      "Jeremy Bentham",
+      "Jean-Jacques Rousseau"
+    ],
+    "answer": "Immanuel Kant"
+  },
+  {
+    "question_number": 69,
+    "question": "What is the term for a deductive argument where the conclusion necessarily follows from the premises?",
+    "options": ["Syllogism", "Induction", "Abduction", "Reduction"],
+    "answer": "Syllogism"
+  },
+  {
+    "question_number": 70,
+    "question": "Who is considered the founder of existentialist philosophy?",
+    "options": [
+      "Søren Kierkegaard",
+      "Friedrich Nietzsche",
+      "Jean-Paul Sartre",
+      "Albert Camus"
+    ],
+    "answer": "Søren Kierkegaard"
+  }
+]

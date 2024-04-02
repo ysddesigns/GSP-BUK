@@ -1,0 +1,72 @@
+[
+  {
+    "question_number": 1,
+    "question": "What is the plural of 'child'?",
+    "options": ["Children", "Childs", "Childes", "Childs"],
+    "answer": "Children"
+  },
+  {
+    "question_number": 2,
+    "question": "Which word is a synonym for 'happy'?",
+    "options": ["Joyful", "Sad", "Angry", "Tired"],
+    "answer": "Joyful"
+  },
+  {
+    "question_number": 3,
+    "question": "What is the past tense of 'eat'?",
+    "options": ["Ate", "Eaten", "Eating", "Eats"],
+    "answer": "Ate"
+  },
+  {
+    "question_number": 4,
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      "She don't like coffee.",
+      "He don't likes coffee.",
+      "They doesn't like coffee.",
+      "She doesn't like coffee."
+    ],
+    "answer": "She doesn't like coffee."
+  },
+  {
+    "question_number": 5,
+    "question": "What is the comparative form of 'good'?",
+    "options": ["Better", "Best", "Gooder", "Goodest"],
+    "answer": "Better"
+  },
+  {
+    "question_number": 6,
+    "question": "What does the acronym 'NASA' stand for?",
+    "options": [
+      "National Aeronautics and Space Administration",
+      "National Air and Space Association",
+      "National Astronomy and Space Agency",
+      "North American Space Alliance"
+    ],
+    "answer": "National Aeronautics and Space Administration"
+  },
+  {
+    "question_number": 7,
+    "question": "Which word is a conjunction?",
+    "options": ["And", "Apple", "Jump", "Quickly"],
+    "answer": "And"
+  },
+  {
+    "question_number": 8,
+    "question": "What is the plural of 'mouse'?",
+    "options": ["Mouses", "Mice", "Mices", "Mouce"],
+    "answer": "Mice"
+  },
+  {
+    "question_number": 9,
+    "question": "What is the superlative form of 'far'?",
+    "options": ["Farest", "Farer", "Further", "Farthest"],
+    "answer": "Farthest"
+  },
+  {
+    "question_number": 10,
+    "question": "Which word is an adverb?",
+    "options": ["Quickly", "Dog", "Red", "Table"],
+    "answer": "Quickly"
+  }
+]

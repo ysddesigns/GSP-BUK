@@ -1,0 +1,112 @@
+[
+  {
+    "question_number": 1,
+    "question": "What does ISBN stand for?",
+    "options": [
+      "International Standard Book Number",
+      "Internal Serial Book Number",
+      "Internet Search Book Number",
+      "Institutional System Book Number"
+    ],
+    "answer": "International Standard Book Number"
+  },
+  {
+    "question_number": 2,
+    "question": "What is the purpose of a library catalog?",
+    "options": [
+      "To organize and provide access to library materials",
+      "To collect fines for overdue books",
+      "To restrict access to certain materials",
+      "To sell books to patrons"
+    ],
+    "answer": "To organize and provide access to library materials"
+  },
+  {
+    "question_number": 3,
+    "question": "Who is considered the 'patron saint of libraries'?",
+    "options": [
+      "Saint Lawrence",
+      "Saint Jerome",
+      "Saint Nicholas",
+      "Saint Thomas Aquinas"
+    ],
+    "answer": "Saint Lawrence"
+  },
+  {
+    "question_number": 4,
+    "question": "What is a reference librarian?",
+    "options": [
+      "A librarian who assists patrons with research and finding information",
+      "A librarian who manages library acquisitions",
+      "A librarian who catalogs new books",
+      "A librarian who maintains the library building"
+    ],
+    "answer": "A librarian who assists patrons with research and finding information"
+  },
+  {
+    "question_number": 5,
+    "question": "What is the Dewey Decimal Classification system used for?",
+    "options": [
+      "Organizing library materials by subject",
+      "Categorizing library patrons",
+      "Tracking library finances",
+      "Determining library hours"
+    ],
+    "answer": "Organizing library materials by subject"
+  },
+  {
+    "question_number": 6,
+    "question": "Which library classification system is commonly used in academic libraries?",
+    "options": [
+      "Library of Congress Classification",
+      "Dewey Decimal Classification",
+      "Universal Decimal Classification",
+      "Colon Classification"
+    ],
+    "answer": "Library of Congress Classification"
+  },
+  {
+    "question_number": 7,
+    "question": "What is interlibrary loan?",
+    "options": [
+      "A service that allows libraries to borrow materials from other libraries on behalf of patrons",
+      "A service that loans books to patrons indefinitely",
+      "A service that delivers library materials via email",
+      "A service that provides free library cards to patrons"
+    ],
+    "answer": "A service that allows libraries to borrow materials from other libraries on behalf of patrons"
+  },
+  {
+    "question_number": 8,
+    "question": "What is a periodical?",
+    "options": [
+      "A publication issued at regular intervals, such as a magazine or journal",
+      "A rare book",
+      "A book that is out of print",
+      "A book with a special cover"
+    ],
+    "answer": "A publication issued at regular intervals, such as a magazine or journal"
+  },
+  {
+    "question_number": 9,
+    "question": "What is a citation?",
+    "options": [
+      "A reference to a book, article, or other work containing detailed information about that work",
+      "A library fine",
+      "A library card",
+      "A library catalog entry"
+    ],
+    "answer": "A reference to a book, article, or other work containing detailed information about that work"
+  },
+  {
+    "question_number": 10,
+    "question": "What is a database in the context of libraries?",
+    "options": [
+      "An organized collection of information, usually stored electronically",
+      "A room in the library with computers for patron use",
+      "A special section of the library for rare books",
+      "A system for checking out library materials"
+    ],
+    "answer": "An organized collection of information, usually stored electronically"
+  }
+]

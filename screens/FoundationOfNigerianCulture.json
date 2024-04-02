@@ -1,0 +1,77 @@
+[
+  {
+    "question_number": 1,
+    "question": "What is the capital city of Nigeria?",
+    "options": ["Abuja", "Lagos", "Kano", "Ibadan"],
+    "answer": "Abuja"
+  },
+  {
+    "question_number": 2,
+    "question": "Who is the first Prime Minister of Nigeria?",
+    "options": [
+      "Abubakar Tafawa Balewa",
+      "Nnamdi Azikiwe",
+      "Obafemi Awolowo",
+      "Ahmadu Bello"
+    ],
+    "answer": "Abubakar Tafawa Balewa"
+  },
+  {
+    "question_number": 3,
+    "question": "Which ethnic group is the largest in Nigeria?",
+    "options": ["Hausa-Fulani", "Yoruba", "Igbo", "Edo"],
+    "answer": "Hausa-Fulani"
+  },
+  {
+    "question_number": 4,
+    "question": "What is the most widely spoken language in Nigeria?",
+    "options": ["Hausa", "Yoruba", "Igbo", "English"],
+    "answer": "English"
+  },
+  {
+    "question_number": 5,
+    "question": "Who is known as the 'Father of Nigerian Literature'?",
+    "options": ["Chinua Achebe", "Wole Soyinka", "Buchi Emecheta", "Ben Okri"],
+    "answer": "Chinua Achebe"
+  },
+  {
+    "question_number": 6,
+    "question": "Which Nigerian musician is known as the 'King of Afrobeat'?",
+    "options": ["Fela Kuti", "Sunny Ade", "Burna Boy", "Davido"],
+    "answer": "Fela Kuti"
+  },
+  {
+    "question_number": 7,
+    "question": "What traditional attire is commonly worn by the Yoruba people?",
+    "options": ["Agbada", "Dashiki", "Buba and Sokoto", "Kaftan"],
+    "answer": "Agbada"
+  },
+  {
+    "question_number": 8,
+    "question": "Which Nigerian festival is known for its masquerade performances?",
+    "options": [
+      "Eyo Festival",
+      "Argungu Festival",
+      "Durbar Festival",
+      "Osun-Osogbo Festival"
+    ],
+    "answer": "Eyo Festival"
+  },
+  {
+    "question_number": 9,
+    "question": "Who is Nigeria's most decorated football player?",
+    "options": [
+      "Jay-Jay Okocha",
+      "Nwankwo Kanu",
+      "Rashidi Yekini",
+      "Vincent Enyeama"
+    ],
+    "answer": "Nwankwo Kanu"
+  },
+  {
+    "question_number": 10,
+    "question": "Which Nigerian dish is made from cassava and is a popular staple food?",
+    "options": ["Garri", "Fufu", "Pounded Yam", "Amala"],
+    "answer": "Garri"
+  }
+]

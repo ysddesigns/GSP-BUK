@@ -1,0 +1,107 @@
+[
+  {
+    "question_number": 1,
+    "question": "What is the main goal of peacebuilding?",
+    "options": [
+      "To prevent the outbreak or recurrence of violent conflict",
+      "To win wars",
+      "To dominate other nations",
+      "To promote economic growth"
+    ],
+    "answer": "To prevent the outbreak or recurrence of violent conflict"
+  },
+  {
+    "question_number": 2,
+    "question": "Which international organization is responsible for peacekeeping missions?",
+    "options": ["United Nations", "European Union", "NATO", "African Union"],
+    "answer": "United Nations"
+  },
+  {
+    "question_number": 3,
+    "question": "What is diplomacy?",
+    "options": [
+      "The art of conducting negotiations between countries",
+      "Military strategy",
+      "Spying on other nations",
+      "Economic sanctions"
+    ],
+    "answer": "The art of conducting negotiations between countries"
+  },
+  {
+    "question_number": 4,
+    "question": "What is a ceasefire?",
+    "options": [
+      "A temporary suspension of hostilities",
+      "A formal declaration of war",
+      "A peace treaty",
+      "A military coup"
+    ],
+    "answer": "A temporary suspension of hostilities"
+  },
+  {
+    "question_number": 5,
+    "question": "What is the role of a mediator in conflict resolution?",
+    "options": [
+      "To facilitate communication and negotiation between conflicting parties",
+      "To take sides and support one party over the other",
+      "To escalate the conflict",
+      "To impose solutions by force"
+    ],
+    "answer": "To facilitate communication and negotiation between conflicting parties"
+  },
+  {
+    "question_number": 6,
+    "question": "What is nonviolent resistance?",
+    "options": [
+      "A strategy for achieving social and political change without the use of violence",
+      "A form of passive acceptance of oppression",
+      "A military tactic",
+      "A negotiation technique"
+    ],
+    "answer": "A strategy for achieving social and political change without the use of violence"
+  },
+  {
+    "question_number": 7,
+    "question": "What is reconciliation?",
+    "options": [
+      "The restoration of friendly relations between conflicting parties",
+      "The total annihilation of one party by another",
+      "The continuation of hostilities",
+      "The division of a territory into separate states"
+    ],
+    "answer": "The restoration of friendly relations between conflicting parties"
+  },
+  {
+    "question_number": 8,
+    "question": "Which document outlines the rights and responsibilities of individuals and states in times of conflict?",
+    "options": [
+      "Geneva Conventions",
+      "Universal Declaration of Human Rights",
+      "Kyoto Protocol",
+      "Paris Agreement"
+    ],
+    "answer": "Geneva Conventions"
+  },
+  {
+    "question_number": 9,
+    "question": "What is disarmament?",
+    "options": [
+      "The reduction or elimination of military weapons",
+      "The arming of civilian populations",
+      "The use of force to impose peace",
+      "The annexation of territory by a foreign power"
+    ],
+    "answer": "The reduction or elimination of military weapons"
+  },
+  {
+    "question_number": 10,
+    "question": "What is a refugee?",
+    "options": [
+      "A person who has been forced to flee their country because of persecution, war, or violence",
+      "A tourist",
+      "A diplomat",
+      "A military officer"
+    ],
+    "answer": "A person who has been forced to flee their country because of persecution, war, or violence"
+  }
+]
